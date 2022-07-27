@@ -1,0 +1,26 @@
+[
+  {
+    "id": 378858,
+    "title": "Free Photos",
+    "shortTitle": "Free",
+    "coverImage": "free-photos.jpg",
+    "order": 20,
+    "description": "Ultrices sagittis orci a scelerisque purus semper eget duis. Ante in nibh mauris cursus. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus."
+  },
+  {
+    "id": 542322,
+    "title": "Pro Photos",
+    "shortTitle": "Pro",
+    "coverImage": "pro-photos.jpg",
+    "order": 30,
+    "description": "Nunc scelerisque viverra mauris in aliquam sem. Leo vel orci porta non pulvinar neque laoreet. Odio pellentesque diam volutpat commodo sed egestas. Cum sociis natoque penatibus et magnis dis."
+  },
+  {
+    "id": 129383,
+    "title": "All Photos",
+    "shortTitle": "All",
+    "coverImage": "all-photos.jpg",
+    "order": 10,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non arcu risus quis varius quam quisque id diam. Pellentesque sit amet porttitor eget. Ultrices gravida dictum fusce ut placerat orci nulla pellentesque dignissim."
+  }
+]

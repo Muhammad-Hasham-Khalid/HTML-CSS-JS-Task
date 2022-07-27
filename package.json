@@ -1,0 +1,22 @@
+{
+  "name": "mk-frontend-assessment",
+  "version": "2.0.0",
+  "description": "A skill assessment for MK engineering candidates.",
+  "main": "server.js",
+  "private": "true",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "jest-environment-jsdom": "^28.1.0",
+    "nodemon": "^2.0.19",
+    "sass": "^1.52.1",
+    "typescript": "^4.7.2"
+  }
+}
